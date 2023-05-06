@@ -10,7 +10,7 @@ B[Completion];
 C[Tutorial hell];
 D[Procrastination];
 E[Hard work];
-F[Repeat];
+F[Repeat until done];
 A-->C;
 C-->D;
 D-->E;
